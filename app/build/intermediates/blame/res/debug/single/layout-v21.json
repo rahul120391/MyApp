@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rahulkumar/Documents/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rahulkumar/.android/build-cache/6caca1917d8cf24d69347ab3e4eeac7b1ec80fd6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rahulkumar/Documents/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rahulkumar/.android/build-cache/6caca1917d8cf24d69347ab3e4eeac7b1ec80fd6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rahulkumar/Documents/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rahulkumar/.android/build-cache/6caca1917d8cf24d69347ab3e4eeac7b1ec80fd6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rahulkumar/Documents/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rahulkumar/.android/build-cache/6caca1917d8cf24d69347ab3e4eeac7b1ec80fd6/output/res/layout-v21/notification_action.xml"
+    }
+]
